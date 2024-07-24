@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"How events are organized in KanthorQ","permalink":"/kanthorq/blog/how-events-are-organized-in-kanthorq","unlisted":false}]}')}}]);

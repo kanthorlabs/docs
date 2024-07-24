@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2679],{8268:s=>{s.exports=JSON.parse('{"tags":[{"label":"System Design","permalink":"/kanthorq/blog/tags/system-design","description":"Discuss about what system design are made in KanthorQ","count":3}]}')}}]);
