@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.kanthorlabs.com/kanthorq/blog</id>
+    <title>KanthorQ Blog</title>
+    <updated>2024-07-22T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.kanthorlabs.com/kanthorq/blog"/>
+    <subtitle>KanthorQ Blog</subtitle>
+    <icon>https://docs.kanthorlabs.com/kanthorq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why you should not use too many items in the IN statement]]></title>
+        <id>https://docs.kanthorlabs.com/kanthorq/blog/why-you-should-not-use-too-many-item-in-the-in-statement</id>
+        <link href="https://docs.kanthorlabs.com/kanthorq/blog/why-you-should-not-use-too-many-item-in-the-in-statement"/>
+        <updated>2024-07-22T00:00:00.000Z</updated>
+        <author>
+            <name>Tuan Nguyen</name>
+            <uri>https://github.com/kanthorlabs</uri>
+        </author>
+        <category label="System Design" term="System Design"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much storage does index consume]]></title>
+        <id>https://docs.kanthorlabs.com/kanthorq/blog/how-much-storage-does-index-consume</id>
+        <link href="https://docs.kanthorlabs.com/kanthorq/blog/how-much-storage-does-index-consume"/>
+        <updated>2024-07-21T00:00:00.000Z</updated>
+        <author>
+            <name>Tuan Nguyen</name>
+            <uri>https://github.com/kanthorlabs</uri>
+        </author>
+        <category label="System Design" term="System Design"/>
+    </entry>
+</feed>
