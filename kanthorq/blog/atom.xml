@@ -29,15 +29,4 @@
         </author>
         <category label="System Design" term="System Design"/>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[How events are organized in KanthorQ]]></title>
-        <id>https://docs.kanthorlabs.com/kanthorq/blog/how-events-are-organized-in-kanthorq</id>
-        <link href="https://docs.kanthorlabs.com/kanthorq/blog/how-events-are-organized-in-kanthorq"/>
-        <updated>2024-07-15T00:00:00.000Z</updated>
-        <author>
-            <name>Tuan Nguyen</name>
-            <uri>https://github.com/kanthorlabs</uri>
-        </author>
-        <category label="System Design" term="System Design"/>
-    </entry>
 </feed>

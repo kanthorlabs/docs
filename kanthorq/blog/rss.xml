@@ -22,12 +22,5 @@
             <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
             <category>System Design</category>
         </item>
-        <item>
-            <title><![CDATA[How events are organized in KanthorQ]]></title>
-            <link>https://docs.kanthorlabs.com/kanthorq/blog/how-events-are-organized-in-kanthorq</link>
-            <guid>https://docs.kanthorlabs.com/kanthorq/blog/how-events-are-organized-in-kanthorq</guid>
-            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-            <category>System Design</category>
-        </item>
     </channel>
 </rss>
